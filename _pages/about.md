@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: vha_va_cun.jpg
+  image: vha_va_cun.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>408 Uris Hall</p>
