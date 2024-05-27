@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: pokemon_FR.png
+  image: vha_va_cun.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>408 Uris Hall</p>
