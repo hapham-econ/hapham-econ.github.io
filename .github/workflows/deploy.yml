@@ -73,7 +73,7 @@ jobs:
       - name: Install Python and Jupyter
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: "3.x"
       - run: pip install jupyter
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
