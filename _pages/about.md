@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am currently a fifth-year PhD student at [Cornell Unviversity Department of Economics](https://economics.cornell.edu/graduate). My research interest is environmental & energy economics and empirical industrial organization. 
+Hi, I am currently a fifth-year PhD student at [Cornell Unviversity Department of Economics](https://economics.cornell.edu/graduate). My research interest is environmental & energy economics and empirical industrial organization.

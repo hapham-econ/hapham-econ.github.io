@@ -9,7 +9,7 @@ last_name: Pham
 email: hvp6@cornell.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-keywords:  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -161,7 +161,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
 
 announcements:
   enabled: false
