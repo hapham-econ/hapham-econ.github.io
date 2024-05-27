@@ -42,9 +42,7 @@ on:
       - "Gemfile.lock"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
-      - "!.github/workflows/deploy-docker-tag.yml"
       - "!.github/workflows/deploy-image.yml"
-      - "!.github/workflows/docker-slim.yml"
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
@@ -70,11 +68,13 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
-      - name: Install Python and Jupyter
+      - name: Install Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.x"
-      - run: pip install jupyter
+          python-version: '3.x'
+
+      - name: Install Jupyter
+        run: pip install jupyter
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
