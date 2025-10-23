@@ -40,9 +40,9 @@ Hi, I am currently a sixth-year PhD candidate at [Cornell Unviversity Department
 ### Work in Progress
 <div style="margin-bottom: 1em;">
   <strong>Electrifying Urban Mobility in Hanoi – Two Wheels at a Time</strong><br>
-  with Shanjun Li, Laurent El Ghaoui, Robert Metcalfe, Alberto Salvo, Binglin Wang<br>
+  with Shanjun Li, Binglin Wang<br>
 </div>
 
 <div style="margin-bottom: 1em;">
-  <strong>Green Light to Motorization: Welfare Impacts of Indonesia’s Low-Cost Green Car Policy</strong><br><br>
+  <strong>The Welfare and Environmental Effects of Indonesia’s Low-Emission Green Car Policy</strong><br><br>
 </div>
