@@ -9,16 +9,18 @@ profile:
   image: HaPham_3257.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>408 Uris Hall</p>
-    <p>Cornell University</p>
-    <p>Ithaca, NY 14850</p>
+    <p>Faculty of Development Economics</p>
+    <p>University of Economics and Business, Vietnam National University</p>
+    <p>Hanoi, Vietnam</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am currently a sixth-year PhD candidate at [Cornell Unviversity Department of Economics](https://economics.cornell.edu/graduate). My research interest includes environmental and energy economics, urban and transportation economics and development economics. I am particularly interested in studying how policies affect environmental and urban challenges in Southeast Asia.
+I am a Lecturer (Assistant Professor) at the University of Economics and Business at Vietnam National University in Hanoi. I received my Ph.D. in Economics from the Department of Economics at Cornell University in December 2025.
+
+My research interests span environmental and energy economics, urban and transportation economics, and development economics. My work focuses on how policies shape environmental outcomes and urban challenges in developing countries, with a particular emphasis on Southeast Asia. 
 
 ### Working Paper
 <div style="margin-bottom: 1em;">
