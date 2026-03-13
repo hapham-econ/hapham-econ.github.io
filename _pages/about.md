@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: HaPham_3257.jpg
+  image: HaPham_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Faculty of Development Economics</p>
@@ -22,21 +22,25 @@ I am a Lecturer (Assistant Professor) at the University of Economics and Busines
 
 My research interests span environmental and energy economics, urban and transportation economics, and development economics. My work focuses on how policies shape environmental outcomes and urban challenges in developing countries, with a particular emphasis on Southeast Asia. 
 
+You can find my CV here: <a href="https://www.dropbox.com/scl/fi/s2nh0wnyok7wjynj4g89c/CV_HaPham_2025.pdf?rlkey=go6740mldro1dbngrnyv1shqs&st=gm20dpot&dl=0" class="btn btn-sm btn-primary" target="_blank">CV</a>
+
 ### Working Paper
 <div style="margin-bottom: 1em;">
-  <strong>Charging Forward: Policy Options to Electrify Asia’s Two-Wheelers (Job Market Paper)</strong>
+  <strong>Charging Forward: Policy Options to Electrify Asia’s Two-Wheelers</strong>
   <a href="https://www.dropbox.com/scl/fi/ep3a9ebz3eotmyjc535u2/e2ws_HaPham.pdf?rlkey=kcog5d8jnj44zqz66o4xjqjm5&st=68j3paz9&dl=0" class="btn btn-sm btn-primary" target="_blank">PDF</a>
   <a href="https://www.dropbox.com/scl/fi/sdkloyiz9xlgrqpzjfhhl/e2ws_full_slides.pdf?rlkey=a9xy2e8jwaus3iz6v771ei7rr&st=or5ofaoe&dl=0" class="btn btn-sm btn-outline-primary" target="_blank">Slides</a>
 </div>
 
 <div style="margin-bottom: 1em;">
-  <strong>China’s Electric Vehicle Policies: Strengths, Challenges, and Future Prospects</strong><br>
+  <strong>The Global Race for Electric Vehicles: The First Decade in Review</strong><br>
   with Shanjun Li, Lin Yang and Yuerong Wang<br>
 </div>
 
+### Book Chapters
 <div style="margin-bottom: 1em;">
-  <strong>The Global Race for Electric Vehicles: The First Decade in Review</strong><br>
+  <strong>China’s Electric Vehicle Policies: Strengths, Challenges, and Future Prospects</strong><br>
   with Shanjun Li, Lin Yang and Yuerong Wang<br>
+  <a href="https://press-files.anu.edu.au/downloads/press/n14544/pdf/ch05.pdf" class="btn btn-sm btn-primary" target="_blank">PDF</a>
 </div>
 
 ### Work in Progress
