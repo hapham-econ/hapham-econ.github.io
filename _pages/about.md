@@ -39,7 +39,10 @@ You can find my CV here: <a href="https://www.dropbox.com/scl/fi/s2nh0wnyok7wjyn
 ### Book Chapters
 <div style="margin-bottom: 1em;">
   <strong>China’s Electric Vehicle Policies: Strengths, Challenges, and Future Prospects</strong><br>
-  with Shanjun Li, Lin Yang and Yuerong Wang<br>
+  with Shanjun Li, Lin Yang, and Yuerong Wang<br>
+  In <em>The Great Energy Transformation in China</em>, edited by Ligang Song and Yixiao Zhou<br>
+  ANU Press, November 2025, China Update Series<br>
+  DOI: <a href="https://doi.org/10.22459/GETC.2025" target="_blank">10.22459/GETC.2025</a><br>
   <a href="https://press-files.anu.edu.au/downloads/press/n14544/pdf/ch05.pdf" class="btn btn-sm btn-primary" target="_blank">PDF</a>
 </div>
 
