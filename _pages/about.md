@@ -22,7 +22,7 @@ I am a Lecturer (Assistant Professor) at the University of Economics and Busines
 
 My research interests span environmental and energy economics, urban and transportation economics, and development economics. My work focuses on how policies shape environmental outcomes and urban challenges in developing countries, with a particular emphasis on Southeast Asia. 
 
-You can find my CV here: <a href="https://www.dropbox.com/scl/fi/s2nh0wnyok7wjynj4g89c/CV_HaPham_2025.pdf?rlkey=go6740mldro1dbngrnyv1shqs&st=gm20dpot&dl=0" class="btn btn-sm btn-primary" target="_blank">CV</a>
+The best way to reach me is by email at viethap@vnu.edu.vn. You can find my CV here: <a href="https://www.dropbox.com/scl/fi/ufdn7mi2z7eoo9mourqeg/CV_HaPham_June_2026.pdf?rlkey=9uzbnasahyuvs2x1cj5jkicup&st=0mnr73ms&dl=0" class="btn btn-sm btn-primary" target="_blank">CV</a>
 
 ### Working Paper
 <div style="margin-bottom: 1em;">
