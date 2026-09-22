@@ -47,6 +47,12 @@ My research interests span environmental and energy economics, urban and transpo
 <div style="margin-bottom: 1em;">
   <strong>The Global Race for Electric Vehicles: The First Decade in Review</strong><br>
   with Shanjun Li, Lin Yang and Yuerong Wang<br>
+  Forthcoming in <em>Review of Environmental Economics and Policy</em><br>
+</div>
+6
+<div style="margin-bottom: 1em;">
+  <strong>Vehicle Taxation and Emissions Reduction: Evidence from Indonesia’s Low Carbon Emission Vehicle Program</strong><br>
+  Under Review<br>
 </div>
 
 ### Book Chapters
@@ -66,5 +72,6 @@ My research interests span environmental and energy economics, urban and transpo
 </div>
 
 <div style="margin-bottom: 1em;">
-  <strong>The Welfare and Environmental Effects of Indonesia’s Low-Emission Green Car Policy</strong><br><br>
+  <strong>One Man’s Trash Is Still Another’s: China’s Waste Import Ban and Spillovers in Vietnam</strong><br>
+  with <a href="https://sites.google.com/view/linhbt/research?authuser=0">Thuy-Linh Bui</a><br>
 </div>
