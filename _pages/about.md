@@ -37,6 +37,13 @@ My research interests span environmental and energy economics, urban and transpo
   </a>
 </p>
 
+### Publication
+<div style="margin-bottom: 1em;">
+  <strong>The Global Race for Electric Vehicles: The First Decade in Review</strong><br>
+  with Shanjun Li, Lin Yang and Yuerong Wang<br>
+  Forthcoming in <em>Review of Environmental Economics and Policy</em><br>
+</div>
+
 ### Working Paper
 <div style="margin-bottom: 1em;">
   <strong>Charging Forward: Policy Options to Electrify Asia’s Two-Wheelers</strong>
@@ -44,12 +51,8 @@ My research interests span environmental and energy economics, urban and transpo
   <a href="https://www.dropbox.com/scl/fi/sdkloyiz9xlgrqpzjfhhl/e2ws_full_slides.pdf?rlkey=a9xy2e8jwaus3iz6v771ei7rr&st=or5ofaoe&dl=0" class="btn btn-sm btn-outline-primary" target="_blank">Slides</a>
 </div>
 
-<div style="margin-bottom: 1em;">
-  <strong>The Global Race for Electric Vehicles: The First Decade in Review</strong><br>
-  with Shanjun Li, Lin Yang and Yuerong Wang<br>
-  Forthcoming in <em>Review of Environmental Economics and Policy</em><br>
-</div>
-6
+
+
 <div style="margin-bottom: 1em;">
   <strong>Vehicle Taxation and Emissions Reduction: Evidence from Indonesia’s Low Carbon Emission Vehicle Program</strong><br>
   Under Review<br>
